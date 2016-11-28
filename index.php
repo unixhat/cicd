@@ -1,3 +1,3 @@
 <?php
-echo 'mycode';
+echo 'mycode v0.1';
 ?>
